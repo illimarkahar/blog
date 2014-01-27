@@ -2,7 +2,7 @@
 
 // Project constants
 define('PROJECT_NAME', 'blog');
-define('DEFAULT_CONTROLLER', 'welcome');
+define('DEFAULT_CONTROLLER', 'Posts');
 define('DEBUG', false);
 
 // Load app
