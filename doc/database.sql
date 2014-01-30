@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Loomise aeg: Jaan 30, 2014 kell 08:34 AM
+-- Loomise aeg: Jaan 30, 2014 kell 09:46 AM
 -- Serveri versioon: 5.5.34
 -- PHP versioon: 5.4.22
 
@@ -37,8 +37,8 @@ CREATE TABLE IF NOT EXISTS `post` (
 --
 
 INSERT INTO `post` (`post_id`, `post_subject`, `post_text`, `post_created`, `user_id`) VALUES
-(1, 'Yolo', 'yolo', '2014-01-27 11:59:54', 1),
-(2, 'yolo', 'yolo', '2014-01-27 11:59:54', 1);
+(1, 'Yolo', 'Tere, minu nimi on Illimar.\r\n', '2014-01-27 11:59:54', 1),
+(2, 'swag', 'Päike paistab, ilm on soe, Slaava kõnnib ümber poe.', '2014-01-27 11:59:54', 1);
 
 -- --------------------------------------------------------
 
